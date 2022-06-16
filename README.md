@@ -7,22 +7,22 @@ Video Manager is a Laravel application used to manage Vimeo videos.
 - Laravel Jetstream with Livewire ([https://laravel.com/docs/routing](https://jetstream.laravel.com/2.x/introduction.html).
 - Nested Set Model (https://github.com/lazychaser/laravel-nestedset).
 
-## Laravel Sponsors
+## Sponsors
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
+We would like to extend our thanks to the following sponsors for funding development. If you are interested in becoming a sponsor, please use Github sponsor.
 
 
 ## Contributing
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+
 
 ## Code of Conduct
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+
 
 ## Security Vulnerabilities
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+If you discover a security vulnerability within Video Manager, please send an e-mail to Prasit Gebsaap via [prasit.gebsaap@gmail.com](mailto:prasit.gebsaap@gmail.com). All security vulnerabilities will be promptly addressed.
 
 ## License
 
